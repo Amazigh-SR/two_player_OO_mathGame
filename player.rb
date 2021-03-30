@@ -13,8 +13,8 @@ class Player
 
 end
 
-player1 = Player.new("Rona")
-puts player1.name
-puts player1.number_of_lives
-player1.lose_life
-puts player1.number_of_lives
+# player1 = Player.new("Rona")
+# puts player1.name
+# puts player1.number_of_lives
+# player1.lose_life
+# puts player1.number_of_lives
